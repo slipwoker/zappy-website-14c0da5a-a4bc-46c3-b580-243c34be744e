@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ספות מפנקות, מיטות איכותיות ופינות אוכל מרהיבות במחירי מפעל. חנות ריהוט לבית שמביאה לכם את הטוב ביותר ישירות מהיצרן. כנסו וגלו את המבחר!
+
+### פתרונות ריהוט
+https://example.com/furniture-solutions
+מחפשים ספות, פינות אוכל או מיטות? פתרונות הריהוט שלנו מותאמים לכל סגנון ותקציב. ריהוט לבית במחיר מפעל עם איכות שלא מתפשרת. גלו את הקולקציה עכשיו!
+
+### אודות
+https://example.com/about
+אנחנו מחסני הריהוט, חנות ריהוט לבית שנולדה מתוך חזון אחד: להביא ריהוט מפעל איכותי ישירות אליכם הביתה. הכירו את הצוות, הערכים והמחויבות שלנו לשירות מושלם.
+
+### צור קשר
+https://example.com/contact
+רוצים לשדרג את הבית עם ריהוט לבית במחיר מפעל? צרו קשר עכשיו וקבלו ייעוץ אישי חינם! צוות מחסני הריהוט כאן בשבילכם לכל שאלה, הזמנה או בקשה מיוחדת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - מחסני הריהוט - מהיצרן לצרכן
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - מחסני הריהוט - מהיצרן לצרכן
+
+### Category
+https://example.com/category/:slug
+מוצרים - מחסני הריהוט - מהיצרן לצרכן
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
